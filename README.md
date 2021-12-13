@@ -1,1 +1,1 @@
-# homework-2
+# Introduction, my first bash steps.
